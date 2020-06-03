@@ -23,6 +23,7 @@ This repository is a collection of public blogs/research/talks I have authored o
 |---|---|---|---|
 | December 12th, 2019 | Intro And Analysis of The StrongPity APT | Tom Hegel | SecDSM |
 | June 7th, 2019 | Xwo Malware Briefing | Tom Hegel | CyberWire Research Saturday Podcast |
+| November 15th, 2018 | An Intro to Uncovering and Hunting for Chinese State-Sponsored Attackers | Tom Hegel | Suricon 2018 |
 | June 9th, 2018 | Winnti Umbrella Chinese Threat Group | Tom Hegel | CyberWire Research Saturday Podcast |
 |  May 8th, 2018 | Chasing LEAD, a Japanese APT Story  | Tom Hegel | Rocky Mountain Information Security Conference 2018 |
 |  May 5th, 2018 | Hancitor Malware Operation Monitoring  | Tom Hegel  | THOTCON 0x9  |
