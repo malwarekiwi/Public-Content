@@ -30,3 +30,4 @@ This repository is a collection of public blogs/research/talks I have authored o
 |  May 10th, 2017 |  Guide to Vetting Threat Intelligence |  Tom Hegel |  Rocky Mountain Information Security Conference 2017 |
 | March 2016| Network Traffic Analysis for Incident Responders | Tom Hegel | DOE CyberFire 2016E (Cyber Fire Foundry) |
 | September 25th, 2015 | Tactical Diversion-Driven Defense | Greg Foss, Tom Hegel | DerbyCon |
+| 2015 | Guide to Internal Security Training | Tom Hegel | SC (world) Congress '15 |
