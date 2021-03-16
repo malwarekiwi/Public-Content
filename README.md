@@ -6,7 +6,7 @@ This repository is a collection of public blogs/research/talks I have authored o
 
 | DATE  | TITLE  |  AUTHOR(S)  | LINK |
 |---|---|---|---|
-| January 13th 2021 | A Global Perspective of the SideWinder APT | Tom Hegel | [Original](https://cdn-cybersecurity.att.com/docs/global-perspective-of-the-sidewinder-apt.pdf) [Archived](https://web.archive.org/web/20210113204848/https://cdn-cybersecurity.att.com/docs/global-perspective-of-the-sidewinder-apt.pdf) |
+| January 13th 2021 | A Global Perspective of the SideWinder APT | Tom Hegel | [PDF](https://github.com/malwarekiwi/Public-Content/blob/master/Global%20Perspective%20of%20the%20SideWinder%20APT.pdf) |
 | July 17th 2019 | Newly Identified StrongPity Operations | Tom Hegel | [Original](https://cybersecurity.att.com/blogs/labs-research/newly-identified-strongpity-operations/) [Archived](https://web.archive.org/web/20191224073331/https://cybersecurity.att.com/blogs/labs-research/newly-identified-strongpity-operations/) |
 | May 3rd, 2018 | Burning Umbrella: An Intelligence Report on the Winnti Umbrella and Associated State-Sponsored Attackers | Tom Hegel | [PDF](https://github.com/malwarekiwi/Public-Content/raw/master/20180503_Burning_Umbrella.pdf) | 
 | February 22nd, 2018 | Analysis of Active Satori Botnet Infections | Tom Hegel | [Archived Blog](https://web.archive.org/web/20190311224041/https://401trg.com/analysis-of-active-satori-botnet-infections/) |
